@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "open-my-html": "open-cli ./index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helmihnich/Portfolio_HTML.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helmihnich/Portfolio_HTML/issues"
+  },
+  "homepage": "https://github.com/helmihnich/Portfolio_HTML#readme",
+  "devDependencies": {
+    "open-cli": "^7.2.0"
+  }
+}
